@@ -21,7 +21,7 @@ Create a Supertokens instance and obtain the following details:
 
 ```
 git clone https://github.com/IdrisFallout/supertokens-flaskapi-startercode.git
-cd supertokens
+cd supertokens-flaskapi-startercode
 ```
 
 In `config.py`, update the following variables:
